@@ -1,6 +1,7 @@
 import java.util.Locale;
 import java.util.ResourceBundle;
 
+// Bug begone
 public class Greeter {
 
   private Locale locale;
